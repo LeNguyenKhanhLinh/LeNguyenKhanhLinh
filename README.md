@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+I'm clueless rn, so I'll update my profile based on what I'll update later
+<!--I
 **LeNguyenKhanhLinh/LeNguyenKhanhLinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
