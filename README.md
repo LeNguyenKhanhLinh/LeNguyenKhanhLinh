@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A little bit about me
-- My name is Khánh Linh (pronounce: Ca(in car)-ing(in doing) Ling(ing in doing),（カイン・リン）unfortunately Japanese don't have the pronounciation alphabelt of my name :<)
+- My name is Khánh Linh (pronounce: Ca(in car)-ing(in doing) Ling(ing in doing),（カイン・リン）unfortunately Japanese doesn't have the pronounciation alphabet for my name :<)
 
 - I'm a CSE student from Hanoi University of Science and Technology 
 
