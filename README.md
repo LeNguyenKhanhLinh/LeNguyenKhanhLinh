@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
   - [My basic python skill](no link yet)
   
-  - [My first full-stack website](no Link yet)
+  - [My first website backend+frontend and not ugly](no Link yet)
  
 - I'll update as soon as I can :>
 
