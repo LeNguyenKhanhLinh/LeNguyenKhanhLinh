@@ -1,7 +1,7 @@
 # Good Morning human 
 
 I'm not abnormal yet, I'm learning normal things first XD
-<img width="3056" height="300" alt="20241214_101605" src="https://github.com/user-attachments/assets/40c78428-98f1-41b0-bbcb-7ef7f644b61b" />
+<img width="300" height="300" alt="20241214_101605" src="https://github.com/user-attachments/assets/40c78428-98f1-41b0-bbcb-7ef7f644b61b" />
 <!--I
 **LeNguyenKhanhLinh/LeNguyenKhanhLinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   - [My basic C skills] (no link yet) and [DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
   
-  - [My Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this one wwith my extraordinary art](https://github.com/luongleafer/wild_life_simulation.git)
+  - [My Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this one too with my extraordinary art](https://github.com/luongleafer/wild_life_simulation.git)
   
   - [My database skill using MySQL](https://github.com/LeNguyenKhanhLinh/EmonDatabase.git)
   
