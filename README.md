@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   - [My database skill using MySQL](https://github.com/LeNguyenKhanhLinh/EmonDatabase.git)
   
-  - [This ugly html-css-javascript website](no link yet)
+  - [This ugly html-css-javascript website](https://github.com/LeNguyenKhanhLinh/myauglayasswebpage.git)
   
   - [My basic python skill](no link yet)
   
