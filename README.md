@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
   - [This ugly html-css-javascript website](https://github.com/LeNguyenKhanhLinh/myauglayasswebpage.git)
   
-  - [My basic python skill](no link yet)
+  - [This front-end website](https://github.com/LeNguyenKhanhLinh/Paradise-Nursery-website.git)
   
   - [My first website backend+frontend and not ugly](no Link yet)
  
