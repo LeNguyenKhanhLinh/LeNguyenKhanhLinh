@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   - [This front-end website](https://github.com/LeNguyenKhanhLinh/Paradise-Nursery-website.git)
   
   - [My first website backend+frontend and not ugly](no Link yet)
+    
+  - [Mini Camera Project](https://github.com/LeNguyenKhanhLinh/Mini-Camera.git)
  
 - I'll update as soon as I can :>
 
