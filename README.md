@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## A little bit about me
 - My name is Khánh Linh (pronounce: Ca(in car)-ing(in doing) Ling(ing in doing),（カイン・リン）
-- I'm a CSE student from Hanoi University of Science and Technology 
+- I'm an IT student from Hanoi University of Science and Technology 
 
 - 🔭: In my best best best scenario, I'd love to do AIoT Space Projects (Can I?)
 
