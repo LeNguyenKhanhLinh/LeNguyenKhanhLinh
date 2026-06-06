@@ -38,5 +38,7 @@ Here are some ideas to get you started:
     
   - [Mini Camera Project](https://github.com/LeNguyenKhanhLinh/Mini-Camera.git)
  
+  - [Clappy-bird game](https://github.com/LeNguyenKhanhLinh/Clappy-bird.git)
+ 
 - I'll update as soon as I can :>
 
