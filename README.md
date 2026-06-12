@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
   - [My basic C skills] (no link yet) and [DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
   
-  - [My OOP Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this one too with my extraordinary art]([https://github.com/luongleafer/wild_life_simulation.git](https://github.com/LeNguyenKhanhLinh/wild_life_simulation.git))
+  - [My OOP Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this one too with my extraordinary art]((https://github.com/LeNguyenKhanhLinh/wild_life_simulation.git))
   
   - [My database skill using MySQL](https://github.com/LeNguyenKhanhLinh/EmonDatabase.git)
   
