@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 But now, I'm learning the basics. You can checkout: 
 
-  - [My basic C skills] (no link yet) and [DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
+  -[DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
   
   - [My OOP Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this one too with my extraordinary art](https://github.com/LeNguyenKhanhLinh/wild_life_simulation.git)
   
