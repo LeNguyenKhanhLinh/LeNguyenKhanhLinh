@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 📫 But now, I'm learning the basics. You can checkout: 
 
-  -[DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
+  - [DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
   
-  - [My OOP Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this one too with my extraordinary art](https://github.com/LeNguyenKhanhLinh/wild_life_simulation.git)
+  - [My OOP Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this group's project too with my extraordinary art](https://github.com/LeNguyenKhanhLinh/wild_life_simulation.git)
   
   - [My database skill using MySQL](https://github.com/LeNguyenKhanhLinh/EmonDatabase.git)
   
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
   - [This front-end website](https://github.com/LeNguyenKhanhLinh/e-plantShopping.git)
   
-  - [My first website backend+frontend and not ugly](no Link yet)
+  - [This group product: note-taking website with AI tutor] (https://github.com/LeNguyenKhanhLinh/djangogirls_studysupport.git)
     
   - [Mini Camera Project](https://github.com/LeNguyenKhanhLinh/Mini-Camera.git)
  
