@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
   - [This front-end website](https://github.com/LeNguyenKhanhLinh/e-plantShopping.git)
   
-  - [This group product: note-taking website with AI tutor](https://github.com/LeNguyenKhanhLinh/djangogirls_studysupport.git)
+  - [This group product: note-taking website with AI tutor](https://djangogirls-studysupport.onrender.com/)
     
   - [Mini Camera Project](https://github.com/LeNguyenKhanhLinh/Mini-Camera.git)
  
