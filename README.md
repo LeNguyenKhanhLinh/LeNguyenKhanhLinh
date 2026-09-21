@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - My name is Khánh Linh (pronounce: Ca(in cat)-ing(in doing) Ling(ing in doing),（カイン・リン）
 - I'm an IT student from Hanoi University of Science and Technology 
 
-- 🔭: In my best best best scenario, I'd love to do AIoT Space Projects (Can I?)
-
 - 📫 But now, I'm learning the basics. You can checkout: 
 
   - [DSA in C](https://github.com/LeNguyenKhanhLinh/HUST-DSA-.git)
