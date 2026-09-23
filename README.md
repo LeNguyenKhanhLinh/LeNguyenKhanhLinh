@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
   - [My OOP Java Skill](https://github.com/LeNguyenKhanhLinh/OOP.Lab.20252.202416966.LeNguyenKhanhLinh.git) and [this group's project too with my extraordinary art](https://github.com/LeNguyenKhanhLinh/wild_life_simulation.git)
   
-  - [My database skill using MySQL](https://github.com/LeNguyenKhanhLinh/EmonDatabase.git)
+  - [My database query skill using MySQL](https://github.com/LeNguyenKhanhLinh/EmonDatabase.git)
   
   - [This ugly html-css-javascript website](https://github.com/LeNguyenKhanhLinh/myauglayasswebpage.git)
   
